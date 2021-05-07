@@ -1,0 +1,157 @@
+.container-principal{
+    height: 600px;
+}
+
+.frm-titulo
+{
+	background-color: #8B0000;
+}
+
+.contato{
+    background-color: #484b4e;
+    height: 90px;
+}
+
+.titulo-contato{
+    color:#b6851b;
+    width: 100%;
+    font-weight: bold;
+}
+
+.data-contato{
+    color:white;
+    width: 100%;
+}
+
+footer{
+    text-align: center;
+    padding:20px;
+    background-color:#f0f4f5;
+    width: 100%;
+}
+
+.container-funcionarios{
+    margin-top:20px;
+    margin-bottom:20px;
+    width: 90%;
+    min-width: 300px;
+    min-height: 500px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.container-projetos{
+    margin-top:20px;
+    margin-bottom:20px;
+    
+    min-height: 500px;
+    border: 1px solid #8B0000;
+    border-radius: 10px;
+}
+
+
+.td-btn{
+    width: 10px;
+}
+
+.td-codigo{
+    width: 50px;
+}
+
+.frm-titulo{
+    color: white;
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.btn-novo{
+    margin: 8px;
+    text-align: right;
+}
+
+.container-funcionario{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 1px solid #343a40;
+    border-radius: 10px;
+    padding: 10px;
+    max-width: 400px;
+}
+
+.container-login{
+    margin-top: 165px;
+    margin-bottom: 290px;
+    border: 1px solid #343a40;
+    border-radius: 10px;
+    padding: 10px;
+    max-width: 400px;
+}
+
+.container-projeto{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 1px solid #343a40;
+    border-radius: 10px;
+    padding: 10px;
+    max-width: 500px;
+}
+
+.btn-controle{
+    width: 100%;
+}
+
+input{
+    text-align: center;
+}
+select{
+    text-align-last: center;
+}
+
+.cl-fa{
+    color:#097212;
+}
+
+.cl-fa:hover{
+    color: #b4eeb8;
+}
+
+.cl-fa-delete{
+    color: #b31f1f;
+}
+
+.cl-fa-delete:hover{
+    color: #e7aaaa;
+}
+
+.div-tabela{
+	overflow-x: scroll;
+}   
+
+.modal-header{
+	background-color: #b31f1f;
+	color: white;
+}
+
+.close{
+	color:white;
+}
+
+.cl-dark{
+	color:white
+}
+
+.list-group-item{
+	text-align: center;
+}
+
+.input-login{
+	margin-bottom: 10px;
+}
+
+.label-login{
+	margin-lert: 15px;
+	margin-top: 15px;
+}
